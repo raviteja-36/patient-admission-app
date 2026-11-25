@@ -2,8 +2,8 @@
 
 A web app for hospital staff to manage admitted patients: add, view, search, filter, edit, delete (with confirmation) and discharge. Responsive on mobile, tablet and desktop.
 
-**Live app:** `PASTE_LIVE_LINK_HERE`
-**Repo:** `PASTE_GITHUB_LINK_HERE`
+Live app: `https://patient-admission-app-yh1s.onrender.com/`
+Repo: `https://github.com/raviteja-36/patient-admission-app`
 
 ## Tech stack
 
